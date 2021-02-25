@@ -1,0 +1,11 @@
+C:\Users\AARON LEYVA CRUZ\source\repos\Usuarios\Usuarios\bin\Debug\Usuarios.exe.config
+C:\Users\AARON LEYVA CRUZ\source\repos\Usuarios\Usuarios\bin\Debug\Usuarios.exe
+C:\Users\AARON LEYVA CRUZ\source\repos\Usuarios\Usuarios\bin\Debug\Usuarios.pdb
+C:\Users\AARON LEYVA CRUZ\source\repos\Usuarios\Usuarios\obj\Debug\Usuarios.csprojAssemblyReference.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\Usuarios\Usuarios\obj\Debug\Usuarios.Form1.resources
+C:\Users\AARON LEYVA CRUZ\source\repos\Usuarios\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+C:\Users\AARON LEYVA CRUZ\source\repos\Usuarios\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\Usuarios\Usuarios\obj\Debug\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\Usuarios\Usuarios\obj\Debug\Usuarios.exe
+C:\Users\AARON LEYVA CRUZ\source\repos\Usuarios\Usuarios\obj\Debug\Usuarios.pdb
+C:\Users\AARON LEYVA CRUZ\source\repos\Usuarios\Usuarios\obj\Debug\Usuarios.tablas.resources

@@ -1,0 +1,7 @@
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Empresa1.4\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Empresa1.4\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Empresa1.4\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Empresa1.4\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Empresa1.4\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Empresa1.4\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Empresa1.4\CapaDatos\obj\Debug\CapaDatos.pdb

@@ -1,0 +1,13 @@
+C:\Users\AARON LEYVA CRUZ\source\repos\programa 2\programa 2\bin\Debug\programa 2.exe.config
+C:\Users\AARON LEYVA CRUZ\source\repos\programa 2\programa 2\bin\Debug\programa 2.exe
+C:\Users\AARON LEYVA CRUZ\source\repos\programa 2\programa 2\bin\Debug\programa 2.pdb
+C:\Users\AARON LEYVA CRUZ\source\repos\programa 2\programa 2\obj\Debug\programa 2.csprojAssemblyReference.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\programa 2\programa 2\obj\Debug\programa_2.Form1.resources
+C:\Users\AARON LEYVA CRUZ\source\repos\programa 2\programa 2\obj\Debug\programa_2.Properties.Resources.resources
+C:\Users\AARON LEYVA CRUZ\source\repos\programa 2\programa 2\obj\Debug\programa 2.csproj.GenerateResource.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\programa 2\programa 2\obj\Debug\programa 2.csproj.CoreCompileInputs.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\programa 2\programa 2\obj\Debug\programa 2.exe
+C:\Users\AARON LEYVA CRUZ\source\repos\programa 2\programa 2\obj\Debug\programa 2.pdb
+C:\Users\AARON LEYVA CRUZ\source\repos\programa 2\programa 2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\AARON LEYVA CRUZ\source\repos\programa 2\programa 2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\AARON LEYVA CRUZ\source\repos\programa 2\programa 2\obj\Debug\programa 2.csproj.CopyComplete

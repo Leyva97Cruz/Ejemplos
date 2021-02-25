@@ -1,0 +1,17 @@
+c:\users\aaron leyva cruz\source\repos\Tabla De Usuarios\CapaNegocio\bin\Debug\CapaNegocio.dll
+c:\users\aaron leyva cruz\source\repos\Tabla De Usuarios\CapaNegocio\bin\Debug\CapaNegocio.pdb
+c:\users\aaron leyva cruz\source\repos\Tabla De Usuarios\CapaNegocio\bin\Debug\CapaDatos.dll
+c:\users\aaron leyva cruz\source\repos\Tabla De Usuarios\CapaNegocio\bin\Debug\CapaDatos.pdb
+c:\users\aaron leyva cruz\source\repos\Tabla De Usuarios\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+c:\users\aaron leyva cruz\source\repos\Tabla De Usuarios\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+c:\users\aaron leyva cruz\source\repos\Tabla De Usuarios\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+c:\users\aaron leyva cruz\source\repos\Tabla De Usuarios\CapaNegocio\obj\Debug\CapaNegocio.dll
+c:\users\aaron leyva cruz\source\repos\Tabla De Usuarios\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\ADMON\Documents\Windows_7_Archivos\source\repos\Tabla De Usuarios\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\ADMON\Documents\Windows_7_Archivos\source\repos\Tabla De Usuarios\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\ADMON\Documents\Windows_7_Archivos\source\repos\Tabla De Usuarios\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\ADMON\Documents\Windows_7_Archivos\source\repos\Tabla De Usuarios\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\ADMON\Documents\Windows_7_Archivos\source\repos\Tabla De Usuarios\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\ADMON\Documents\Windows_7_Archivos\source\repos\Tabla De Usuarios\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\ADMON\Documents\Windows_7_Archivos\source\repos\Tabla De Usuarios\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\ADMON\Documents\Windows_7_Archivos\source\repos\Tabla De Usuarios\CapaNegocio\obj\Debug\CapaNegocio.pdb

@@ -1,0 +1,10 @@
+C:\Users\AARON LEYVA CRUZ\source\repos\Mercancia\Mercancia\bin\Debug\Mercancia.exe.config
+C:\Users\AARON LEYVA CRUZ\source\repos\Mercancia\Mercancia\bin\Debug\Mercancia.exe
+C:\Users\AARON LEYVA CRUZ\source\repos\Mercancia\Mercancia\bin\Debug\Mercancia.pdb
+C:\Users\AARON LEYVA CRUZ\source\repos\Mercancia\Mercancia\obj\Debug\Mercancia.csprojAssemblyReference.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\Mercancia\Mercancia\obj\Debug\Mercancia.Form1.resources
+C:\Users\AARON LEYVA CRUZ\source\repos\Mercancia\Mercancia\obj\Debug\Mercancia.Properties.Resources.resources
+C:\Users\AARON LEYVA CRUZ\source\repos\Mercancia\Mercancia\obj\Debug\Mercancia.csproj.GenerateResource.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\Mercancia\Mercancia\obj\Debug\Mercancia.csproj.CoreCompileInputs.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\Mercancia\Mercancia\obj\Debug\Mercancia.exe
+C:\Users\AARON LEYVA CRUZ\source\repos\Mercancia\Mercancia\obj\Debug\Mercancia.pdb

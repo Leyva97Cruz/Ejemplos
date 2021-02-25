@@ -1,0 +1,10 @@
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\Tabla Mercancia\Tabla Mercancia\bin\Debug\Tabla Mercancia.exe.config
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\Tabla Mercancia\Tabla Mercancia\bin\Debug\Tabla Mercancia.exe
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\Tabla Mercancia\Tabla Mercancia\bin\Debug\Tabla Mercancia.pdb
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\Tabla Mercancia\Tabla Mercancia\obj\Debug\Tabla Mercancia.csprojAssemblyReference.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\Tabla Mercancia\Tabla Mercancia\obj\Debug\Tabla_Mercancia.Form1.resources
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\Tabla Mercancia\Tabla Mercancia\obj\Debug\Tabla_Mercancia.Properties.Resources.resources
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\Tabla Mercancia\Tabla Mercancia\obj\Debug\Tabla Mercancia.csproj.GenerateResource.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\Tabla Mercancia\Tabla Mercancia\obj\Debug\Tabla Mercancia.csproj.CoreCompileInputs.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\Tabla Mercancia\Tabla Mercancia\obj\Debug\Tabla Mercancia.exe
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\Tabla Mercancia\Tabla Mercancia\obj\Debug\Tabla Mercancia.pdb

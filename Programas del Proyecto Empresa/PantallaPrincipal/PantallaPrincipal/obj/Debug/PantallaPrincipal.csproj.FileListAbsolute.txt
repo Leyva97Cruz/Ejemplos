@@ -1,0 +1,13 @@
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\PantallaPrincipal\PantallaPrincipal\bin\Debug\PantallaPrincipal.exe.config
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\PantallaPrincipal\PantallaPrincipal\bin\Debug\PantallaPrincipal.exe
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\PantallaPrincipal\PantallaPrincipal\bin\Debug\PantallaPrincipal.pdb
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\PantallaPrincipal\PantallaPrincipal\obj\Debug\PantallaPrincipal.csprojAssemblyReference.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\PantallaPrincipal\PantallaPrincipal\obj\Debug\PantallaPrincipal.Form1.resources
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\PantallaPrincipal\PantallaPrincipal\obj\Debug\PantallaPrincipal.Properties.Resources.resources
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\PantallaPrincipal\PantallaPrincipal\obj\Debug\PantallaPrincipal.csproj.GenerateResource.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\PantallaPrincipal\PantallaPrincipal\obj\Debug\PantallaPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\PantallaPrincipal\PantallaPrincipal\obj\Debug\PantallaPrincipal.exe
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\PantallaPrincipal\PantallaPrincipal\obj\Debug\PantallaPrincipal.pdb
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\PantallaPrincipal\PantallaPrincipal\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\PantallaPrincipal\PantallaPrincipal\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\AARON LEYVA CRUZ\source\repos\Programas del Proyecto Empresa\PantallaPrincipal\PantallaPrincipal\obj\Debug\PantallaPrincipal.csproj.CopyComplete

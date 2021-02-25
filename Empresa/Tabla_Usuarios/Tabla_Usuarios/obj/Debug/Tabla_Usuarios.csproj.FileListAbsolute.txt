@@ -1,0 +1,10 @@
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Tabla_Usuarios\Tabla_Usuarios\bin\Debug\Tabla_Usuarios.exe.config
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Tabla_Usuarios\Tabla_Usuarios\bin\Debug\Tabla_Usuarios.exe
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Tabla_Usuarios\Tabla_Usuarios\bin\Debug\Tabla_Usuarios.pdb
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Tabla_Usuarios\Tabla_Usuarios\obj\Debug\Tabla_Usuarios.csprojAssemblyReference.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Tabla_Usuarios\Tabla_Usuarios\obj\Debug\Tabla_Usuarios.Form1.resources
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Tabla_Usuarios\Tabla_Usuarios\obj\Debug\Tabla_Usuarios.Properties.Resources.resources
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Tabla_Usuarios\Tabla_Usuarios\obj\Debug\Tabla_Usuarios.csproj.GenerateResource.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Tabla_Usuarios\Tabla_Usuarios\obj\Debug\Tabla_Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Tabla_Usuarios\Tabla_Usuarios\obj\Debug\Tabla_Usuarios.exe
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Tabla_Usuarios\Tabla_Usuarios\obj\Debug\Tabla_Usuarios.pdb

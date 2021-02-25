@@ -1,0 +1,10 @@
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Empresa\bin\Debug\Empresa.dacpac
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Empresa\bin\Debug\Empresa.dll
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Empresa\bin\Debug\Empresa.pdb
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Empresa\obj\Debug\Empresa.sqlprojAssemblyReference.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Empresa\obj\Debug\Model.xml
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Empresa\obj\Debug\refactor.xml
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Empresa\obj\Debug\postdeploy.sql
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Empresa\obj\Debug\predeploy.sql
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Empresa\obj\Debug\Empresa.dll
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Empresa\obj\Debug\Empresa.pdb

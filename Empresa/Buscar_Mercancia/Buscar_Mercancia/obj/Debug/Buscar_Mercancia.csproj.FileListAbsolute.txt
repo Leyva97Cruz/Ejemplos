@@ -1,0 +1,10 @@
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Buscar_Mercancia\Buscar_Mercancia\bin\Debug\Buscar_Mercancia.exe.config
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Buscar_Mercancia\Buscar_Mercancia\bin\Debug\Buscar_Mercancia.exe
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Buscar_Mercancia\Buscar_Mercancia\bin\Debug\Buscar_Mercancia.pdb
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Buscar_Mercancia\Buscar_Mercancia\obj\Debug\Buscar_Mercancia.csprojAssemblyReference.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Buscar_Mercancia\Buscar_Mercancia\obj\Debug\Buscar_Mercancia.Form1.resources
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Buscar_Mercancia\Buscar_Mercancia\obj\Debug\Buscar_Mercancia.Properties.Resources.resources
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Buscar_Mercancia\Buscar_Mercancia\obj\Debug\Buscar_Mercancia.csproj.GenerateResource.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Buscar_Mercancia\Buscar_Mercancia\obj\Debug\Buscar_Mercancia.csproj.CoreCompileInputs.cache
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Buscar_Mercancia\Buscar_Mercancia\obj\Debug\Buscar_Mercancia.exe
+C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Buscar_Mercancia\Buscar_Mercancia\obj\Debug\Buscar_Mercancia.pdb

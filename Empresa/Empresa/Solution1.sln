@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Empresa", "Empresa.sqlproj", "{A25572C9-1D98-41B6-97D0-0135DF6C13C0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Empresass", "Empresass\Empresass.vdproj", "{CF940D14-44F7-4735-B78B-22F3AE8E013D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A25572C9-1D98-41B6-97D0-0135DF6C13C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25572C9-1D98-41B6-97D0-0135DF6C13C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A25572C9-1D98-41B6-97D0-0135DF6C13C0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A25572C9-1D98-41B6-97D0-0135DF6C13C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25572C9-1D98-41B6-97D0-0135DF6C13C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A25572C9-1D98-41B6-97D0-0135DF6C13C0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CF940D14-44F7-4735-B78B-22F3AE8E013D}.Debug|Any CPU.ActiveCfg = Debug
+		{CF940D14-44F7-4735-B78B-22F3AE8E013D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03DA6331-08B8-4F57-B3D6-359CF71DCDF4}
+	EndGlobalSection
+EndGlobal
