@@ -1,6 +1,0 @@
-C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Programa Empresa\CapaDatos\bin\Debug\CapaDatos.dll
-C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Programa Empresa\CapaDatos\bin\Debug\CapaDatos.pdb
-C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Programa Empresa\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
-C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Programa Empresa\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
-C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Programa Empresa\CapaDatos\obj\Debug\CapaDatos.dll
-C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Programa Empresa\CapaDatos\obj\Debug\CapaDatos.pdb
