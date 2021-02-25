@@ -7,3 +7,15 @@ C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Programa Empresa\CapaNegocio\obj\
 C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Programa Empresa\CapaNegocio\bin\Debug\Empresa_Empresa.mdf
 C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Programa Empresa\CapaNegocio\bin\Debug\Empresa_Empresa_log.ldf
 C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Programa Empresa\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaNegocio\bin\Debug\Empresa_Empresa.mdf
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaNegocio\bin\Debug\Empresa_Empresa_log.ldf
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaNegocio\obj\Debug\CapaNegocio.pdb

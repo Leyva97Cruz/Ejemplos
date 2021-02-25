@@ -8,3 +8,13 @@ C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Programa Empresa1\CapaPresentacio
 C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Programa Empresa1\CapaPresentacion\obj\Debug\CapaPresentacion.TablaUsuarios.resources
 C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Programa Empresa1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
 C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Programa Empresa1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa1\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa1\CapaPresentacion\obj\Debug\CapaPresentacion.BuscarMercancia.resources
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa1\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa1\CapaPresentacion\obj\Debug\CapaPresentacion.MostrarLogo.resources
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa1\CapaPresentacion\obj\Debug\CapaPresentacion.PantallaPrincipal.resources
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa1\CapaPresentacion\obj\Debug\CapaPresentacion.TablaMercancia.resources
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa1\CapaPresentacion\obj\Debug\CapaPresentacion.TablaUsuarios.resources
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache

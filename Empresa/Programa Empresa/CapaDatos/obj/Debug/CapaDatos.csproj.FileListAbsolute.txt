@@ -6,3 +6,12 @@ C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Programa Empresa\CapaDatos\bin\De
 C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Programa Empresa\CapaDatos\bin\Debug\Empresa_Empresa_log.ldf
 C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Programa Empresa\CapaDatos\bin\Debug\CapaDatos.dll.config
 C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Programa Empresa\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaDatos\bin\Debug\Empresa_Empresa.mdf
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaDatos\bin\Debug\Empresa_Empresa_log.ldf
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaDatos\obj\Debug\CapaDatos.pdb

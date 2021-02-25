@@ -27,3 +27,14 @@ C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Programa Empresa\CapaPresentacion
 C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Programa Empresa\CapaPresentacion\bin\Debug\Empresa_Empresa.mdf
 C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Programa Empresa\CapaPresentacion\bin\Debug\Empresa_Empresa_log.ldf
 C:\Users\AARON LEYVA CRUZ\source\repos\Empresa\Programa Empresa\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaPresentacion\obj\Debug\CapaPresentacion.BuscarMercancia.resources
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaPresentacion\obj\Debug\CapaPresentacion.MostrarLogo.resources
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaPresentacion\obj\Debug\CapaPresentacion.TablaMercancia.resources
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaPresentacion\obj\Debug\CapaPresentacion.TablaUsuarios.resources
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaPresentacion\obj\Debug\CapaPresentacion.PantallaPrincipal.resources
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Programa Empresa\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
