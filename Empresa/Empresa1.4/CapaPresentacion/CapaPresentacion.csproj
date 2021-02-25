@@ -138,12 +138,6 @@
     <None Include="Resources\excel.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Logo AZUL.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Logo.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\maximize3.png" />
   </ItemGroup>
   <ItemGroup>

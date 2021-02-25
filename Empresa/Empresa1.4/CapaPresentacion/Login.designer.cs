@@ -52,17 +52,18 @@
             this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(250, 330);
+            this.panel1.Size = new System.Drawing.Size(333, 406);
             this.panel1.TabIndex = 1;
             this.panel1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseDown);
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::CapaPresentacion.Properties.Resources.Logo_AZUL;
-            this.pictureBox1.Location = new System.Drawing.Point(45, 91);
+            this.pictureBox1.Location = new System.Drawing.Point(60, 112);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(150, 139);
+            this.pictureBox1.Size = new System.Drawing.Size(200, 171);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
@@ -75,7 +76,7 @@
             this.shapeContainer1.Shapes.AddRange(new Microsoft.VisualBasic.PowerPacks.Shape[] {
             this.lineShape2,
             this.lineShape1});
-            this.shapeContainer1.Size = new System.Drawing.Size(760, 330);
+            this.shapeContainer1.Size = new System.Drawing.Size(1013, 406);
             this.shapeContainer1.TabIndex = 1;
             this.shapeContainer1.TabStop = false;
             // 
@@ -105,9 +106,10 @@
             this.txtusuario.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtusuario.Font = new System.Drawing.Font("Times New Roman", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtusuario.ForeColor = System.Drawing.Color.White;
-            this.txtusuario.Location = new System.Drawing.Point(310, 70);
+            this.txtusuario.Location = new System.Drawing.Point(413, 86);
+            this.txtusuario.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtusuario.Name = "txtusuario";
-            this.txtusuario.Size = new System.Drawing.Size(408, 28);
+            this.txtusuario.Size = new System.Drawing.Size(544, 35);
             this.txtusuario.TabIndex = 2;
             this.txtusuario.Text = "USUARIO";
             this.txtusuario.Enter += new System.EventHandler(this.txtusuario_Enter);
@@ -119,9 +121,10 @@
             this.txtcontraseña.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtcontraseña.Font = new System.Drawing.Font("Times New Roman", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtcontraseña.ForeColor = System.Drawing.Color.White;
-            this.txtcontraseña.Location = new System.Drawing.Point(310, 176);
+            this.txtcontraseña.Location = new System.Drawing.Point(413, 217);
+            this.txtcontraseña.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtcontraseña.Name = "txtcontraseña";
-            this.txtcontraseña.Size = new System.Drawing.Size(408, 28);
+            this.txtcontraseña.Size = new System.Drawing.Size(544, 35);
             this.txtcontraseña.TabIndex = 3;
             this.txtcontraseña.Text = "CONTRASEÑA";
             this.txtcontraseña.Enter += new System.EventHandler(this.txtcontraseña_Enter);
@@ -135,9 +138,10 @@
             this.btnacceder.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btnacceder.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnacceder.ForeColor = System.Drawing.Color.White;
-            this.btnacceder.Location = new System.Drawing.Point(310, 253);
+            this.btnacceder.Location = new System.Drawing.Point(413, 311);
+            this.btnacceder.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnacceder.Name = "btnacceder";
-            this.btnacceder.Size = new System.Drawing.Size(408, 50);
+            this.btnacceder.Size = new System.Drawing.Size(544, 62);
             this.btnacceder.TabIndex = 4;
             this.btnacceder.Text = "ACCEDER";
             this.btnacceder.UseVisualStyleBackColor = true;
@@ -147,9 +151,10 @@
             // 
             this.btncerrar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btncerrar.Image = global::CapaPresentacion.Properties.Resources.Close;
-            this.btncerrar.Location = new System.Drawing.Point(739, 6);
+            this.btncerrar.Location = new System.Drawing.Point(985, 7);
+            this.btncerrar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btncerrar.Name = "btncerrar";
-            this.btncerrar.Size = new System.Drawing.Size(15, 15);
+            this.btncerrar.Size = new System.Drawing.Size(20, 18);
             this.btncerrar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.btncerrar.TabIndex = 6;
             this.btncerrar.TabStop = false;
@@ -159,9 +164,10 @@
             // 
             this.btnminimizar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnminimizar.Image = global::CapaPresentacion.Properties.Resources.Minimize;
-            this.btnminimizar.Location = new System.Drawing.Point(708, 6);
+            this.btnminimizar.Location = new System.Drawing.Point(944, 7);
+            this.btnminimizar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnminimizar.Name = "btnminimizar";
-            this.btnminimizar.Size = new System.Drawing.Size(15, 15);
+            this.btnminimizar.Size = new System.Drawing.Size(20, 18);
             this.btnminimizar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.btnminimizar.TabIndex = 7;
             this.btnminimizar.TabStop = false;
@@ -173,9 +179,10 @@
             this.checkBox1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.checkBox1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.checkBox1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
-            this.checkBox1.Location = new System.Drawing.Point(592, 224);
+            this.checkBox1.Location = new System.Drawing.Point(789, 276);
+            this.checkBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(162, 23);
+            this.checkBox1.Size = new System.Drawing.Size(200, 27);
             this.checkBox1.TabIndex = 8;
             this.checkBox1.Text = "Mostrar Contraseña";
             this.checkBox1.UseVisualStyleBackColor = true;
@@ -183,10 +190,10 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DimGray;
-            this.ClientSize = new System.Drawing.Size(760, 330);
+            this.ClientSize = new System.Drawing.Size(1013, 406);
             this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.btnminimizar);
             this.Controls.Add(this.btncerrar);
@@ -197,6 +204,7 @@
             this.Controls.Add(this.shapeContainer1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Opacity = 0.9D;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
