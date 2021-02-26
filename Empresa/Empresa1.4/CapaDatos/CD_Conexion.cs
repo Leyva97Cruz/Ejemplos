@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Data;
 //using CapaDatos.Properties;
 using System.Configuration;
-
+using System.Data.SqlClient;
 
 namespace CapaDatos
 {

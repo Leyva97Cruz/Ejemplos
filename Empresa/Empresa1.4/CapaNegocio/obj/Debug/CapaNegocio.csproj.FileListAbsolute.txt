@@ -18,3 +18,12 @@ C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Empresa1
 C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Empresa1.4\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
 C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Empresa1.4\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\alond\OneDrive\Documentos\VisualStudio\GitHub\Ejemplos\Empresa\Empresa1.4\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\obj\Debug\CapaNegocio.pdb

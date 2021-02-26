@@ -47,7 +47,6 @@
             this.BtnEditar = new System.Windows.Forms.Button();
             this.BtnEliminar = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.BtnExportar = new System.Windows.Forms.Button();
             this.LblTotaPorPagar = new System.Windows.Forms.Label();
             this.LbTotalPagado = new System.Windows.Forms.Label();
             this.LblTotal = new System.Windows.Forms.Label();
@@ -284,25 +283,6 @@
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
-            // BtnExportar
-            // 
-            this.BtnExportar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.BtnExportar.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
-            this.BtnExportar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DimGray;
-            this.BtnExportar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
-            this.BtnExportar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BtnExportar.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnExportar.ForeColor = System.Drawing.Color.White;
-            this.BtnExportar.Image = global::CapaPresentacion.Properties.Resources.excel;
-            this.BtnExportar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.BtnExportar.Location = new System.Drawing.Point(699, 429);
-            this.BtnExportar.Name = "BtnExportar";
-            this.BtnExportar.Size = new System.Drawing.Size(337, 68);
-            this.BtnExportar.TabIndex = 13;
-            this.BtnExportar.Text = "Exportar A Execel";
-            this.BtnExportar.UseVisualStyleBackColor = true;
-            this.BtnExportar.Click += new System.EventHandler(this.BtnExportar_Click);
-            // 
             // LblTotaPorPagar
             // 
             this.LblTotaPorPagar.AutoSize = true;
@@ -356,7 +336,6 @@
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.BtnEliminar);
             this.Controls.Add(this.BtnEditar);
-            this.Controls.Add(this.BtnExportar);
             this.Controls.Add(this.BtnGuardar);
             this.Controls.Add(this.TxtTotalPagado);
             this.Controls.Add(this.TxtPrecio);
@@ -396,7 +375,6 @@
         private System.Windows.Forms.TextBox TxtPrecio;
         private System.Windows.Forms.TextBox TxtTotalPagado;
         private System.Windows.Forms.Button BtnGuardar;
-        private System.Windows.Forms.Button BtnExportar;
         private System.Windows.Forms.Button BtnEditar;
         private System.Windows.Forms.Button BtnEliminar;
         private System.Windows.Forms.PictureBox pictureBox1;

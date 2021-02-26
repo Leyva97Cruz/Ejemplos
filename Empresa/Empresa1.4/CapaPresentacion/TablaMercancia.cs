@@ -15,7 +15,6 @@ namespace CapaPresentacion
     {
 
         CN_Mercancia objetoCN = new CN_Mercancia();
-        CN_Exportar objeto = new CN_Exportar();
         CN_Sumas OBJETO = new CN_Sumas();
 
         private string idMercancia=null;
@@ -30,7 +29,6 @@ namespace CapaPresentacion
                 BtnGuardar.Visible = false;
                 BtnEditar.Visible = false;
                 BtnEliminar.Visible = false;
-                BtnExportar.Visible = false;
                 label1.Visible = false;
                 label2.Visible = false;
                 label3.Visible = false;
@@ -209,7 +207,7 @@ namespace CapaPresentacion
 
         private void BtnExportar_Click(object sender, EventArgs e)//Boton Exportar
         {
-            objeto.ExportarTabla(TablaMer,LblTotaPorPagar.Text,LbTotalPagado.Text,LblTotal.Text);
+            //objeto.ExportarTabla(TablaMer,LblTotaPorPagar.Text,LbTotalPagado.Text,LblTotal.Text);
         }
     }
 }
