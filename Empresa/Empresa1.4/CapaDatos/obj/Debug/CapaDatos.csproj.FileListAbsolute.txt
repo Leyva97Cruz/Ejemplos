@@ -28,8 +28,6 @@ C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaDatos\bin\D
 C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaDatos\bin\Debug\System.Buffers.dll
 C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaDatos\bin\Debug\K4os.Compression.LZ4.dll
 C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaDatos\bin\Debug\K4os.Hash.xxHash.dll
-C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
 C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaDatos\bin\Debug\MySql.Data.xml
 C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
-C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache

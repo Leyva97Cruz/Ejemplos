@@ -63,3 +63,17 @@ C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacio
 C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
 C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\obj\Debug\CapaPresentacion.exe
 C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\bin\Debug\MySql.Data.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\bin\Debug\Google.Protobuf.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\bin\Debug\Zstandard.Net.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\bin\Debug\Renci.SshNet.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\bin\Debug\MySql.Data.xml
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\obj\Debug\CapaPresentacion.exe.config

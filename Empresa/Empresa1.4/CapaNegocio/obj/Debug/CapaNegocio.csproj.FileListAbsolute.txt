@@ -27,3 +27,16 @@ C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\obj
 C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
 C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\bin\Debug\MySql.Data.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\bin\Debug\Google.Protobuf.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\bin\Debug\Zstandard.Net.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\bin\Debug\Renci.SshNet.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\bin\Debug\System.Memory.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\bin\Debug\System.Buffers.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaNegocio\bin\Debug\MySql.Data.xml

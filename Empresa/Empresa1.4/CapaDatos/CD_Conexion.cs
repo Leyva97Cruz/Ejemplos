@@ -7,12 +7,15 @@ using System.Data;
 //using CapaDatos.Properties;
 using System.Configuration;
 using System.Data.SqlClient;
+using MySql.Data;
+using MySql.Data.MySqlClient;
 
 namespace CapaDatos
 {
     public  class CD_Conexion
     {
-
+        
+        MySqlConnection Conexion = new MySqlConnection("server=127.0.0.1; port=3306; user id=Usuario1; password=FOrtachon97; database=practica;");
         private SqlConnection conexion = new SqlConnection("data source=192.168.1.80,1433;Initial Catalog=Empresas;user id=Usuario1;password=123");
 
 
@@ -25,6 +28,14 @@ namespace CapaDatos
 
         }
 
+        public MySqlConnection OpenConnection()
+        {
+            if (Conexion.State == ConnectionState.Closed)
+
+                Conexion.Open();
+            return Conexion;
+        }
+
         //cerrar conexion
 
         public SqlConnection CerraConexion()
@@ -35,7 +46,14 @@ namespace CapaDatos
             return conexion;
 
         }
+        
+        public MySqlConnection CloseConnection()
+        {
+            if (Conexion.State == ConnectionState.Open)
 
+                Conexion.Close();
+            return Conexion;
+        }
 
 
     }
