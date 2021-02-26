@@ -49,7 +49,6 @@ C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacio
 C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\bin\Debug\CapaNegocio.dll
 C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\bin\Debug\CapaDatos.dll
 C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\bin\Debug\CapaNegocio.pdb
-C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
 C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\bin\Debug\CapaDatos.pdb
 C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\bin\Debug\CapaDatos.dll.config
 C:\Users\ADMON\Documents\VsualStudio\Ejemplos\Empresa\Empresa1.4\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache

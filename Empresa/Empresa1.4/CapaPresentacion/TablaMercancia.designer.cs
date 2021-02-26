@@ -34,23 +34,15 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(TablaMercancia));
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
             this.TablaMer = new System.Windows.Forms.DataGridView();
             this.TxtNombre = new System.Windows.Forms.TextBox();
             this.TxtCantidad = new System.Windows.Forms.TextBox();
-            this.TxtTipo = new System.Windows.Forms.TextBox();
             this.TxtPrecio = new System.Windows.Forms.TextBox();
-            this.TxtTotalPagado = new System.Windows.Forms.TextBox();
             this.BtnGuardar = new System.Windows.Forms.Button();
             this.BtnEditar = new System.Windows.Forms.Button();
             this.BtnEliminar = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.LblTotaPorPagar = new System.Windows.Forms.Label();
-            this.LbTotalPagado = new System.Windows.Forms.Label();
-            this.LblTotal = new System.Windows.Forms.Label();
-            this.LbTotaM = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.TablaMer)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -79,41 +71,17 @@
             this.label2.TabIndex = 2;
             this.label2.Text = "Cantidad:";
             // 
-            // label3
-            // 
-            this.label3.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(686, 164);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(164, 24);
-            this.label3.TabIndex = 3;
-            this.label3.Text = "Tipo De Servicio:";
-            // 
             // label4
             // 
             this.label4.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.White;
-            this.label4.Location = new System.Drawing.Point(775, 222);
+            this.label4.Location = new System.Drawing.Point(775, 158);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(75, 24);
             this.label4.TabIndex = 4;
             this.label4.Text = "Precio:";
-            // 
-            // label5
-            // 
-            this.label5.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(714, 282);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(136, 24);
-            this.label5.TabIndex = 5;
-            this.label5.Text = "Total Pagado:";
             // 
             // TablaMer
             // 
@@ -183,18 +151,6 @@
             this.TxtCantidad.Size = new System.Drawing.Size(202, 29);
             this.TxtCantidad.TabIndex = 8;
             // 
-            // TxtTipo
-            // 
-            this.TxtTipo.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.TxtTipo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
-            this.TxtTipo.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.TxtTipo.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TxtTipo.ForeColor = System.Drawing.Color.Black;
-            this.TxtTipo.Location = new System.Drawing.Point(856, 164);
-            this.TxtTipo.Name = "TxtTipo";
-            this.TxtTipo.Size = new System.Drawing.Size(202, 29);
-            this.TxtTipo.TabIndex = 9;
-            // 
             // TxtPrecio
             // 
             this.TxtPrecio.Anchor = System.Windows.Forms.AnchorStyles.Right;
@@ -202,22 +158,10 @@
             this.TxtPrecio.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.TxtPrecio.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TxtPrecio.ForeColor = System.Drawing.Color.Black;
-            this.TxtPrecio.Location = new System.Drawing.Point(856, 222);
+            this.TxtPrecio.Location = new System.Drawing.Point(856, 158);
             this.TxtPrecio.Name = "TxtPrecio";
             this.TxtPrecio.Size = new System.Drawing.Size(202, 29);
             this.TxtPrecio.TabIndex = 10;
-            // 
-            // TxtTotalPagado
-            // 
-            this.TxtTotalPagado.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.TxtTotalPagado.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
-            this.TxtTotalPagado.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.TxtTotalPagado.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TxtTotalPagado.ForeColor = System.Drawing.Color.Black;
-            this.TxtTotalPagado.Location = new System.Drawing.Point(856, 282);
-            this.TxtTotalPagado.Name = "TxtTotalPagado";
-            this.TxtTotalPagado.Size = new System.Drawing.Size(202, 29);
-            this.TxtTotalPagado.TabIndex = 11;
             // 
             // BtnGuardar
             // 
@@ -283,69 +227,21 @@
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
-            // LblTotaPorPagar
-            // 
-            this.LblTotaPorPagar.AutoSize = true;
-            this.LblTotaPorPagar.Location = new System.Drawing.Point(587, 510);
-            this.LblTotaPorPagar.Name = "LblTotaPorPagar";
-            this.LblTotaPorPagar.Size = new System.Drawing.Size(35, 13);
-            this.LblTotaPorPagar.TabIndex = 17;
-            this.LblTotaPorPagar.Text = "label6";
-            this.LblTotaPorPagar.Visible = false;
-            // 
-            // LbTotalPagado
-            // 
-            this.LbTotalPagado.AutoSize = true;
-            this.LbTotalPagado.Location = new System.Drawing.Point(687, 510);
-            this.LbTotalPagado.Name = "LbTotalPagado";
-            this.LbTotalPagado.Size = new System.Drawing.Size(35, 13);
-            this.LbTotalPagado.TabIndex = 18;
-            this.LbTotalPagado.Text = "label7";
-            this.LbTotalPagado.Visible = false;
-            // 
-            // LblTotal
-            // 
-            this.LblTotal.AutoSize = true;
-            this.LblTotal.Location = new System.Drawing.Point(804, 510);
-            this.LblTotal.Name = "LblTotal";
-            this.LblTotal.Size = new System.Drawing.Size(35, 13);
-            this.LblTotal.TabIndex = 19;
-            this.LblTotal.Text = "label8";
-            this.LblTotal.Visible = false;
-            // 
-            // LbTotaM
-            // 
-            this.LbTotaM.AutoSize = true;
-            this.LbTotaM.Location = new System.Drawing.Point(905, 510);
-            this.LbTotaM.Name = "LbTotaM";
-            this.LbTotaM.Size = new System.Drawing.Size(35, 13);
-            this.LbTotaM.TabIndex = 20;
-            this.LbTotaM.Text = "label9";
-            this.LbTotaM.Visible = false;
-            // 
             // TablaMercancia
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DimGray;
             this.ClientSize = new System.Drawing.Size(1070, 565);
-            this.Controls.Add(this.LbTotaM);
-            this.Controls.Add(this.LblTotal);
-            this.Controls.Add(this.LbTotalPagado);
-            this.Controls.Add(this.LblTotaPorPagar);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.BtnEliminar);
             this.Controls.Add(this.BtnEditar);
             this.Controls.Add(this.BtnGuardar);
-            this.Controls.Add(this.TxtTotalPagado);
             this.Controls.Add(this.TxtPrecio);
-            this.Controls.Add(this.TxtTipo);
             this.Controls.Add(this.TxtCantidad);
             this.Controls.Add(this.TxtNombre);
             this.Controls.Add(this.TablaMer);
-            this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -365,23 +261,15 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label5;
         private System.Windows.Forms.DataGridView TablaMer;
         private System.Windows.Forms.TextBox TxtNombre;
         private System.Windows.Forms.TextBox TxtCantidad;
-        private System.Windows.Forms.TextBox TxtTipo;
         private System.Windows.Forms.TextBox TxtPrecio;
-        private System.Windows.Forms.TextBox TxtTotalPagado;
         private System.Windows.Forms.Button BtnGuardar;
         private System.Windows.Forms.Button BtnEditar;
         private System.Windows.Forms.Button BtnEliminar;
         private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.Label LblTotaPorPagar;
-        private System.Windows.Forms.Label LbTotalPagado;
-        private System.Windows.Forms.Label LblTotal;
-        private System.Windows.Forms.Label LbTotaM;
     }
 }
 

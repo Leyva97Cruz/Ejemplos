@@ -17,12 +17,11 @@ namespace CapaPresentacion
         {
             InitializeComponent();
         }
-        CN_Sumas objetoCN = new CN_Sumas();
 
-        private void Totales()
+        /*private void Totales()
         {
             objetoCN.Totales(LbTotalPorPagar, LbTotalPagado, LbTotal, LbTotalMercancia);
-        }
+        }*/
 
         private void HoraFecha_Tick(object sender, EventArgs e)
         {
@@ -32,7 +31,7 @@ namespace CapaPresentacion
 
         private void MostrarLogo_Load(object sender, EventArgs e)
         {
-            Totales();
+            //Totales();
         }
     }
 }

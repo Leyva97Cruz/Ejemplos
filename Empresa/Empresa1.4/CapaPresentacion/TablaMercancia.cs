@@ -14,8 +14,8 @@ namespace CapaPresentacion
     public partial class TablaMercancia : Form
     {
 
-        CN_Mercancia objetoCN = new CN_Mercancia();
-        CN_Sumas OBJETO = new CN_Sumas();
+        CN_Mercancia Mercancia = new CN_Mercancia();
+
 
         private string idMercancia=null;
         private bool Editar = false;
@@ -31,22 +31,13 @@ namespace CapaPresentacion
                 BtnEliminar.Visible = false;
                 label1.Visible = false;
                 label2.Visible = false;
-                label3.Visible = false;
                 label4.Visible = false;
-                label5.Visible = false;
                 TxtNombre.Visible = false;
                 TxtCantidad.Visible = false;
                 TxtPrecio.Visible = false;
-                TxtTipo.Visible = false;
-                TxtTotalPagado.Visible = false;
             }
         }
 
-        private void Totales()
-        {
-
-            OBJETO.Totales(LblTotaPorPagar, LbTotalPagado, LblTotal, LbTotaM);
-        }
 
         public TablaMercancia()
         {
@@ -68,7 +59,6 @@ namespace CapaPresentacion
         {
             MostrarMercancia();
             Privilegios();
-            Totales();
         }
 
         private void BtnGuardar_Click(object sender, EventArgs e)//boton guardar y editar
@@ -83,7 +73,7 @@ namespace CapaPresentacion
                     //---------Utilizar Variables------------------
                     cantidad = int.Parse(TxtCantidad.Text); //
                     precio = double.Parse(TxtPrecio.Text);//
-                    pagado = double.Parse(TxtTotalPagado.Text);//
+                    pagado = 12.1;//
                     //---------Operaciones-------------------------
                     total = cantidad * precio;//
                     Totalporpagar = total - pagado;//
@@ -92,10 +82,9 @@ namespace CapaPresentacion
                     Total = Convert.ToString(total);
                    totalporPagar = Convert.ToString(Totalporpagar);
                     //--------Utilizar el objeto cn----------------
-                    objetoCN.InsertarMercancia(TxtNombre.Text, TxtCantidad.Text, TxtTipo.Text, TxtPrecio.Text, totalporPagar, TxtTotalPagado.Text, Total);
+                    Mercancia.InsertarMercancia(TxtNombre.Text, TxtCantidad.Text,null, TxtPrecio.Text, totalporPagar, Total,null);
                     MessageBox.Show("Se Agrego Fila Corectamente ");
                     MostrarMercancia();
-                    Totales();
                     Limpiar();
 
                 }
@@ -118,7 +107,7 @@ namespace CapaPresentacion
                     //---------Utilizar Variables------------------
                     cantidad = int.Parse(TxtCantidad.Text); //
                     precio = double.Parse(TxtPrecio.Text);//
-                    pagado = double.Parse(TxtTotalPagado.Text);//
+                    pagado = 12.1;//
                     //---------Operaciones-------------------------
                     total = cantidad * precio;//
                     Totalporpagar = total - pagado;//
@@ -127,10 +116,9 @@ namespace CapaPresentacion
                     Total = Convert.ToString(total);
                     totalporPagar = Convert.ToString(Totalporpagar);
                     //--------Utilizar el objeto cn----------------
-                    objetoCN.ActualizarMercancia(TxtNombre.Text, TxtCantidad.Text, TxtTipo.Text, TxtPrecio.Text, totalporPagar, TxtTotalPagado.Text, Total, idMercancia);
+                    Mercancia.ActualizarMercancia(TxtNombre.Text, TxtCantidad.Text, null,null,TxtPrecio.Text, totalporPagar, Total, idMercancia);
                     MessageBox.Show("Se Actualizo Fila Corectamente ");
                     MostrarMercancia();
-                    Totales();
                     Limpiar();
 
                 }
@@ -148,9 +136,7 @@ namespace CapaPresentacion
         {
             TxtNombre.Clear();
             TxtCantidad.Clear();
-            TxtTipo.Clear();
             TxtPrecio.Clear();
-            TxtTotalPagado.Clear();
         }
 
         private void BtnEditar_Click(object sender, EventArgs e) //boton editar
@@ -162,9 +148,9 @@ namespace CapaPresentacion
                     Editar = true;
                     TxtNombre.Text      = TablaMer.CurrentRow.Cells["Nombre"].Value.ToString();
                     TxtCantidad.Text    = TablaMer.CurrentRow.Cells["Cantidad"].Value.ToString();
-                    TxtTipo.Text        = TablaMer.CurrentRow.Cells["Tipo_De_Servicio"].Value.ToString();
+                    //TxtTipo.Text        = TablaMer.CurrentRow.Cells["Tipo_De_Servicio"].Value.ToString();
                     TxtPrecio.Text      = TablaMer.CurrentRow.Cells["Precio"].Value.ToString();
-                    TxtTotalPagado.Text = TablaMer.CurrentRow.Cells["Total_Pagado"].Value.ToString();
+                    //TxtTotalPagado.Text = TablaMer.CurrentRow.Cells["Total_Pagado"].Value.ToString();
                     idMercancia         = TablaMer.CurrentRow.Cells["ID_Mercancia"].Value.ToString();
             }
                 catch (Exception Ex)
@@ -187,10 +173,10 @@ namespace CapaPresentacion
                 try
                 {
                     idMercancia = TablaMer.CurrentRow.Cells["ID_Mercancia"].Value.ToString();
-                    objetoCN.EliminarMercancia(idMercancia);
+                    Mercancia.EliminarMercancia(idMercancia);
                     MessageBox.Show("Se Elimino Fila Correctamente");
                     MostrarMercancia();
-                    Totales();
+                    
                 }
                 catch (Exception Ex)
                 {
